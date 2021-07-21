@@ -39,5 +39,32 @@
       "content": "Wow such content!",
       "username": "zero_cool"
     }
+  ],
+  "order_status": [
+      {
+          "id": 1,
+          "status": "New",
+          "description": "New order"
+      },
+      {
+          "id": 2,
+          "status": "Processing",
+          "description": "Order processing"
+      },
+      {
+          "id": 3,
+          "status": "Delivered",
+          "description": "Order delivered"
+      },
+      {
+          "id": 4,
+          "status": "Returned",
+          "description": "Order returned"
+      },
+      {
+          "id": 5,
+          "status": "Cancelled",
+          "description": "Order cancelled"
+      }
   ]
 }
